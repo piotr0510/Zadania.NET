@@ -1,0 +1,36 @@
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\bin\Debug\NET INIS4_PR2.2 z4.exe.config
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\bin\Debug\NET INIS4_PR2.2 z4.exe
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\bin\Debug\NET INIS4_PR2.2 z4.pdb
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.csprojAssemblyReference.cache
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\MainWindow.g.cs
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\Szczegóły.g.cs
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\App.g.cs
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4_MarkupCompile.cache
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4_MarkupCompile.lref
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\App.baml
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\MainWindow.baml
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\Szczegóły.baml
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.g.resources
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET_INIS4_PR2._2_z4.Properties.Resources.resources
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.csproj.GenerateResource.cache
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.csproj.CoreCompileInputs.cache
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.exe
+H:\Install\NET-INIS4_PR2.2-z4-main\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.pdb
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\bin\Debug\NET INIS4_PR2.2 z4.exe.config
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\bin\Debug\NET INIS4_PR2.2 z4.exe
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\bin\Debug\NET INIS4_PR2.2 z4.pdb
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\Szczegóły.g.cs
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4_MarkupCompile.cache
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4_MarkupCompile.lref
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\App.baml
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\Szczegóły.baml
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.g.resources
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET_INIS4_PR2._2_z4.Properties.Resources.resources
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.exe
+C:\Users\Piotr\Desktop\,net\NET-INIS4_PR2.2-z4-main\obj\Debug\NET INIS4_PR2.2 z4.pdb

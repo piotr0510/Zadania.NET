@@ -1,0 +1,18 @@
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\bin\Debug\NET INIS4_PR2.2 z4.exe.config
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\bin\Debug\NET INIS4_PR2.2 z4.exe
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\bin\Debug\NET INIS4_PR2.2 z4.pdb
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\BindingDoKlasc#.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\Szczegóły.g.cs
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\NET INIS4_PR2.2 z4_MarkupCompile.cache
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\NET INIS4_PR2.2 z4_MarkupCompile.lref
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\App.baml
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\Szczegóły.baml
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\NET INIS4_PR2.2 z4.g.resources
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\NET_INIS4_PR2._2_z4.Properties.Resources.resources
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\BindingDoKlasc#.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\BindingDoKlasc#.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\NET INIS4_PR2.2 z4.exe
+C:\Users\Piotr\Desktop\,net\3-Binding do klas\obj\Debug\NET INIS4_PR2.2 z4.pdb
