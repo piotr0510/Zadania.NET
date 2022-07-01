@@ -1,0 +1,20 @@
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\bin\Debug\NET INIS4_PR2._2 Z4.exe.config
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\bin\Debug\NET INIS4_PR2._2 Z4.exe
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\bin\Debug\NET INIS4_PR2._2 Z4.pdb
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z5.csprojAssemblyReference.cache
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\MainWindow.g.cs
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\OknoGrupy.g.cs
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\OknoProduktu.g.cs
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\App.g.cs
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z4_MarkupCompile.cache
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z4_MarkupCompile.lref
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\App.baml
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\MainWindow.baml
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\OknoGrupy.baml
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\OknoProduktu.baml
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z4.g.resources
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET_INIS4_PR2._2_Z4.Properties.Resources.resources
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z5.csproj.GenerateResource.cache
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z5.csproj.CoreCompileInputs.cache
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z4.exe
+H:\Install\NET-INIS4_PR2._2-Z5-main\NET-INIS4_PR2._2-Z5-main\obj\Debug\NET INIS4_PR2._2 Z4.pdb

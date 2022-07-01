@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GrupyProduktów>
+  <Grupa>
+    <Nazwa Opis="Małe pojazdy">Samochody osobowe</Nazwa>
+	  <Marki>
+		<Nazwa>VW</Nazwa>
+
+		  <Modele
+			 id="1234">
+			
+			<Nazwa>Golf 4</Nazwa>
+			<Rok>1990</Rok>
+			<Pojemnosc>730</Pojemnosc>
+			<KrajPochodzenia Kod="PL">
+				<Nazwa>Polska</Nazwa>
+			</KrajPochodzenia>
+		</Modele>
+		  <Modele
+			id="1235">
+			<Nazwa>Golf 5</Nazwa>
+			<Rok>1990</Rok>
+			<Pojemnosc>73056</Pojemnosc>
+			<KrajPochodzenia Kod="GB">
+				<Nazwa>W.Brytania</Nazwa>
+			</KrajPochodzenia>
+		</Modele>
+		  <Modele
+			id="1236">
+        <Nazwa>Golf 3</Nazwa>
+		  <Rok>1990</Rok>
+        <Pojemnosc>730</Pojemnosc>
+        <KrajPochodzenia Kod="FR">
+          <Nazwa>Francja</Nazwa>
+        </KrajPochodzenia>
+      </Modele>
+
+    </Marki>
+  </Grupa>
+  <Grupa>
+    <Nazwa Opis="Coś Większego">Busy</Nazwa>
+    <Marki>
+		<Modele
+		   id="1237">
+			<Nazwa>bus 1</Nazwa>
+			<Rok>1991</Rok>
+			<Pojemnosc>731</Pojemnosc>
+			<KrajPochodzenia Kod="FR">
+				<Nazwa>Francja</Nazwa>
+			</KrajPochodzenia>
+		</Modele>
+    </Marki>
+  </Grupa>
+	<Grupa>
+		<Nazwa Opis="Coś Większego">Ciezary</Nazwa>
+		<Marki>
+			<Nazwa>VW</Nazwa>
+			<Modele>
+				id="1234">
+
+				<Nazwa>Golf 4</Nazwa>
+				<Rok>1990</Rok>
+				<Pojemnosc>730</Pojemnosc>
+				<KrajPochodzenia Kod="PL">
+					<Nazwa>Polska</Nazwa>
+				</KrajPochodzenia>
+				</Modele>
+			<Modele>
+				id="1234">
+
+				<Nazwa>Golf 5</Nazwa>
+				<Rok>1990</Rok>
+				<Pojemnosc>730</Pojemnosc>
+				<KrajPochodzenia Kod="PL">
+					<Nazwa>Polska</Nazwa>
+				</KrajPochodzenia>
+			</Modele>
+			<Modele>
+				id="1234">
+
+				<Nazwa>Golf 6</Nazwa>
+				<Rok>1990</Rok>
+				<Pojemnosc>730</Pojemnosc>
+				<KrajPochodzenia Kod="PL">
+					<Nazwa>Polska</Nazwa>
+				</KrajPochodzenia>
+			</Modele>
+			</Marki>
+	
+	</Grupa>
+</GrupyProduktów>
